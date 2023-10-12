@@ -7,3 +7,9 @@ Notebooks can be run using Google Colab. The Google Colab environment should aut
 * `compare-cpca-with-other-methods.ipynb`: compares cPCA with other dimensionality reduction methods (runtime: ~34 seconds)
 * `run-cpca-on-mnist-and-mouse-datasets.ipynb`: runs cPCA experiments on the MNIST and Mouse Down Syndrome Gene Expression datasets (runtime: ~244 seconds)
 * `validate-cPCA-with-kNN.ipynb`: evalute k-NN 5-fold mean validation accuracy using PCA and cPCA pre-processed data (runtime: ~15 seconds)
+
+### Runtime Instructions
+
+For `run-cpca-on-mnist-and-mouse-datasets.ipynb`, the user would need to specify a JSON object containing a valid Kaggle username and password, as specified in the notebook instructions.
+
+The other two notebooks can be run without any additional configuration.
