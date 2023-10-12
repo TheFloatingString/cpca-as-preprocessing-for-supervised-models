@@ -1,6 +1,6 @@
 # Improving Classification Accuracy using Contrastive Principal Component Analysis
 
-Notebooks can be run using Google Colab. 
+Notebooks can be run using Google Colab. The Google Colab environment should automatically take care of all dependencies and data downloads. 
 
 ### Notebooks
 
